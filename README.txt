@@ -1,6 +1,6 @@
 Copyright <YEAR> <COPYRIGHT HOLDER>
 
-Permission is hereby granted to run (but not distribute) verbatim copies of this software. The author additionally grants to any person meeting the following conditions an MIT License to this software:
+Permission is hereby granted to run (but not distribute) verbatim copies of this software. The copyright holder additionally grants to any person meeting the following conditions an MIT License to this software:
 
 1. <CONDITION>
 

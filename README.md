@@ -46,6 +46,10 @@ Yes.
 
 Yes, as long as you don't change it. To change it, you need the MIT License.
 
+#### Can I use an older version of the code?
+
+Yes, if that version of the code came with this license.
+
 #### Can I look at the code and re-implement it for free?
 
 No, that would be deriving a modified version. The MIT License allows this, of course.

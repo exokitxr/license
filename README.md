@@ -16,13 +16,17 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Why
 
-The most common structure in open source software is a lone developer working a side job for free, out of passion for the project. The vast majority of users, especially companies, copy-paste open source code under a permissive license and occasionally request bugfixes and features from the developer.
+The most common structure in open source software is a lone developer working a volunteer side job out of passion for the cause.
 
-This works until the developer burns out or needs to attend to their "real job", at which point users feel abandoned, and the developer is held irresponsible.
+The majority of users, especially companies, copy-paste open source code under a permissive license and occasionally request bugfixes and features from the developer. Larger open source projects are funded by companies, but the dynamic remains -- a couple of developers justifying open source to their employer.
 
-This license breaks the cycle by aligning developer and user incentives. Everyone gets the liberty they expect from their software, and where this liberty burdens the developer with maintenance responsibility -- code changes -- the responsibility is shared with the user in the form of sponsorship.
+This works until the developer burns out or needs to attend to their "real job" instead, at which point users feel abandoned, and the developer is held irresponsible.
 
-If it doesn't work out, no problem! Sponsors keep their license for their copy of the code. The developer has a reason to maintain the software users want.
+This license breaks the cycle by aligning developer and user incentives. Everyone gets the liberty they expect from their software. Where this liberty burdens the maintainer with responsibility -- code changes -- that responsibility is shared in the form of a sponsorship.
+
+If it doesn't work out, no problem! Sponsors keep the permissive license for their copy of the code -- including the right to fork and re-release the software.
+
+In the meantime, the developer has a reason to maintain the software users want. Companies have a line item to expense for the software they use.
 
 ## FAQ
 
@@ -34,13 +38,21 @@ Yes, for any purpose, as long as you don't change it. To change it, you need the
 
 Yes.
 
-#### Can I import this code from its web location?
+#### Can I dynamically load this code from its web location?
 
 Yes.
 
 #### Can I copy paste part of the code into my project?
 
 Yes, as long as you don't change it. To change it, you need the MIT License.
+
+#### Can I look at the code and re-implement it for free?
+
+No, that would be deriving a modified version. The MIT License allows this, of course.
+
+#### Do sponsors get the "full" MIT License?
+
+Yes, the text is literally the MIT License.
 
 #### Can I get the MIT License and then release the code for free?
 

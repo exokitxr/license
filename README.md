@@ -34,17 +34,27 @@ In the meantime, the developer has a reason to maintain the software users want.
 
 Yes, for any purpose, as long as you don't change it. To change it, you need the MIT License.
 
+#### How does this license affect me?
+
+It probably doesn't. Most use cases just import and run the code somewhere; the license explicitly allows that.
+
+If you are a company looking to reshape the code into your product, you might want to sponsor a permissive MIT License.
+
 #### Can I use the code in a closed source project?
 
-Yes.
+Yes, keeping in mind the rest of the terms.
 
 #### Can I dynamically load this code from its web location?
 
 Yes.
 
-#### Can I copy paste part of the code into my project?
+#### Can I use part of the code in my project?
 
 Yes, as long as you don't change it. To change it, you need the MIT License.
+
+#### Can I post this code elsewhere?
+
+Yes, without changes. If you are making changes, you need the MIT License.
 
 #### Can I use an older version of the code?
 

@@ -5,7 +5,7 @@ This is a convertible software license that lets anyone run the code, and conver
 ```
 Copyright 2019 Avaer Kazmer
 
-Permission is hereby granted to run verbatim copies of this software for any purpose.
+Permission is hereby granted to run and distribute verbatim copies of this software for any purpose.
 
 The copyright holder additionally grants an MIT License to this software to sponsors per terms at https://github.com/sponsors/modulesio
 
